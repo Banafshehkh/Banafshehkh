@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:banafsheh.khazali@ucalgary.ca)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/banafshehkh)
 
-- 🌱 I am a CS master student at university of Calgary. 
+- 🌱 I am a CS master student at the University of Calgary. 
 - 📫 How to reach me: banafsheh.khazali@ucalgary.ca
 
 
