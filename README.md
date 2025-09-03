@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/banafshehkh)
 
 - 🌱 I am a CS master student at the University of Calgary. 
-- 📫 How to reach me: banafsheh.khazali@ucalgary.ca
+- 📫 How to reach me: banafshekhazali@gmail.com
 
 
 ### 🖥 Skills
